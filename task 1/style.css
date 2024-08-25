@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.image{
+   position: absolute;
+   margin: 20px;
+}
+nav{
+    height: 20px;
+    width: 100%;
+    margin-bottom: 3%;
+    padding: 20px;
+    color: white; 
+    position: fixed top;
+    text-decoration: none;
+}
+ul,li{
+    display: flex;
+    justify-content: center;
+}
+.text{
+    margin-top: -7px;
+    margin-left: 75%;
+    color: white;
+    background-color: black    
+}
+li{
+    margin-left: 20px;
+}
+h1{
+    margin-left: 105px;
+}
+*{ 
+        background-image: url(./vimal-s-cPGMrfAuUSg-unsplash.jpg);     
+        background-size: 100% 100%; 
+        background-repeat: no-repeat;    
+        background-attachment: fixed;
+}
+h2,h3{
+    margin-top: 10px;
+    width: 100%;
+    padding: auto;
+    margin-left: 200px;
+    display: inline-block;
+    color: white;
+}
+button{
+    height: 50px;
+    width: 150px;
+    padding: auto;
+    margin-top: 10px;
+    margin-left: 200px;
+    border-radius: 50px ;
+    color: white;
+}
+.logo{
+    margin-top: 20px;
+    margin-left: 200px;
+
+}
+.vk{
+    margin-left: 60%;
+    margin-top: -13%;
+}
+.intro{
+    margin-top: 100px;
+}
+footer{
+    color: white;
+    justify-content: bottom;
+}
