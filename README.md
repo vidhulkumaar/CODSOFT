@@ -7,8 +7,6 @@ This repository contains the submissions for my internship tasks. It includes th
 - Showcases my skills, projects, and contact details.
 - Fully responsive design suitable for desktop and mobile view.
 
-🔗 [Live Demo](#)  
-📁 [View Files](./Task-1-Portfolio)
 
 ---
 
@@ -18,8 +16,6 @@ This repository contains the submissions for my internship tasks. It includes th
 - Includes modern layout, catchy slogans, and attractive visuals.
 - Built using HTML, CSS, and animations for better user experience.
 
-🔗 [Live Demo](#)  
-📁 [View Files](./Task-2-Bike-Ad)
 
 ---
 
@@ -29,8 +25,6 @@ This repository contains the submissions for my internship tasks. It includes th
 - Supports basic arithmetic operations: addition, subtraction, multiplication, division.
 - Clean UI and responsive layout.
 
-🔗 [Live Demo](#)  
-📁 [View Files](./Task-3-Calculator)
 
 ---
 
